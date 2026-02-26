@@ -9,6 +9,7 @@ def print_movie(movie):
 
 def print_all_movies():
     # TODO: connect to DynamoDB and print all movies
+    # new comment
     pass
 
 def main():
