@@ -1,5 +1,6 @@
 # Lab 8 - Maddie
-# # CS178 - Lab 8 Starter
+# CS178 - Lab 8 Starter
+# Due 2/26 
 
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
